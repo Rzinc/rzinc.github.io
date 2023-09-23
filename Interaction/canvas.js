@@ -56,7 +56,7 @@ for(var i  = 0; i != 100; ++i){
     var radius = 30
     // Math.random() generates a number b/w 0 and 1
     var x = Math.random()*(winWidth - radius*2) + radius;
-    var y = Math.random()*(winHeight - radius*2) + radius;
+    var y = Math.random()*(winHeigh - radius*2) + radiust;
     var dx = (Math.random()-0.5)*4
     var dy = (Math.random()-0.5)*4
 
